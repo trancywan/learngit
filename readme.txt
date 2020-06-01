@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 tracks changes of files
 master change
 fixed bug issue-101 again
+remote change
