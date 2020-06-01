@@ -7,3 +7,4 @@ fixed bug issue-101 again
 idea change
 remote change
 bug fixed issue-01 
+bug fixed issue-02
